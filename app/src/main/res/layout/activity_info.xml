@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/info">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity"
+        android:orientation="vertical"
+        android:id="@+id/activity_info_layout">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            tools:src="@drawable/amacafe"
+            android:scaleType="centerCrop"
+            android:id="@+id/info_image_view"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Starbucks Coffee"
+            android:background="@color/brown_app"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="@color/tan_background"
+            android:fontFamily="sans-serif-medium"
+            android:paddingLeft="16dp"
+            android:paddingTop="8dp"
+            android:paddingRight="16dp"
+            android:id="@+id/infoName_text_view"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Sparks Mall, Kamla Nagar, Delhi - 110007"
+            android:textSize="20sp"
+            android:background="@color/brown_app"
+            android:textColor="@color/tan_background"
+            android:fontFamily="sans-serif-light"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingBottom="30dp"
+            android:id="@+id/infoPlace_text_view"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Seattle-based coffeehouse chain known for its signature roasts, light bites and WiFi availability."
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="16dp"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:fontFamily="sans-serif"
+            android:id="@+id/infoBasic_text_view"
+            android:paddingBottom="5dp"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/black" />
+<!--            android:layout_marginTop="5dp"/>-->
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_phone_black_36"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="16dp"
+                android:layout_marginLeft="16dp"
+                android:id="@+id/callbutton" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/callbutton"
+                android:paddingTop="20dp"
+                android:paddingLeft="16dp"
+                android:paddingBottom="5dp"
+                android:id="@+id/infoNumber_frame">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="+919643206781"
+                android:textSize="20sp"
+                android:textColor="@color/black"
+                android:id="@+id/infoNumber_text_view"
+                android:background="?android:attr/selectableItemBackground"/>
+            </FrameLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/black"
+                android:layout_below="@id/callbutton" />
+<!--                android:layout_marginTop="5dp"/>-->
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_navigation_black_36"
+                android:layout_below="@id/callbutton"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="16dp"
+                android:id="@+id/directionbutton" />
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/directionbutton"
+                android:layout_below="@id/infoNumber_frame"
+                android:paddingTop="25dp"
+                android:paddingLeft="16dp"
+                android:id="@+id/infoDirection_frame">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Directions"
+                android:textSize="20sp"
+                android:textColor="@color/black"
+                android:id="@+id/infoDirection_text_view"
+                android:background="?android:attr/selectableItemBackground"/>
+            </FrameLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/black"
+                android:layout_below="@id/directionbutton"
+                android:layout_marginTop="5dp"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/outline_language_black_36"
+                android:layout_below="@id/directionbutton"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="25dp"
+                android:id="@+id/websitebutton" />
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/directionbutton"
+                android:layout_below="@id/infoDirection_frame"
+                android:paddingTop="38dp"
+                android:paddingLeft="16dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Website"
+                android:textSize="20sp"
+                android:textColor="@color/black"
+                android:id="@+id/infoWebsite_text_view"
+                android:background="?android:attr/selectableItemBackground"/>
+            </FrameLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@android:color/black"
+                android:layout_marginTop="5dp"
+                android:layout_below="@id/websitebutton"/>
+
+
+        </RelativeLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Timings: \nMonday - Friday \n10:30 am - 11:00 pm"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:layout_margin="16dp"
+            android:id="@+id/infoTimings_text_view"/>
+
+    </LinearLayout>
+</ScrollView>

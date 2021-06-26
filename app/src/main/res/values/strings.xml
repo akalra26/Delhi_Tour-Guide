@@ -1,0 +1,801 @@
+<resources>
+    <string name="app_name">Delhi Tour Guide</string>
+    <string name="category_monuments">Monument</string>
+    <string name="category_restaurants">Restros</string>
+    <string name="category_markets">Markets</string>
+    <string name="category_malls">Malls</string>
+    <string name="category_nightlife">NightLife</string>
+
+
+    <string name="red_fort_name">Red Fort</string>
+    <string name="red_fort_place">Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="red_fort_basic">The Red Fort is a historic fort in the city of Delhi in India that
+        served as the main residence of the Mughal Emperors. Emperor Shah Jahan commissioned construction of the Red Fort on 12 May 1638, when he decided to shift his capital from Agra to Delhi.</string>
+    <string name="red_fort_number">011 2327 7705</string>
+    <string name="red_fort_timing">Timings:\nMonday Closed\nTuesday - Sunday\n9:30am - 4:30pm\nClosed on National Holidays</string>
+
+
+    <string name="qutub_minar_name">Qutub Minar</string>
+    <string name="qutub_minar_place">Seth Sarai, Mehrauli, New Delhi, Delhi 110030</string>
+    <string name="qutub_minar_basic">The Qutb Minar, also spelled as Qutub Minar and Qutab Minar, is
+        a minaret and "victory tower" that forms part of the Qutb complex. It is a UNESCO World Heritage Site in the Mehrauli area of New Delhi, India. </string>
+    <string name="qutub_minar_number">011 2469 8431</string>
+    <string name="qutub_minar_timing">Timings:\nMonday - Sunday\n7:00am - 5:00am\nClosed on National Holidays</string>
+
+
+    <string name="india_gate_name">India Gate</string>
+    <string name="india_gate_place"> Rajpath, India Gate, New Delhi, Delhi 110001</string>
+    <string name="india_gate_basic">The India Gate is a war memorial located astride the Rajpath, on
+        the eastern edge of the "ceremonial axis" of New Delhi, formerly called Kingsway.</string>
+    <string name="india_gate_number"> 011 2336 5358</string>
+    <string name="india_gate_timing">Timings:\nMonday - Sunday\n12:00am - 12:00pm\nClosed on National Holidays</string>
+
+
+    <string name="humayuns_tomb_name">Humayun\'s Tomb</string>
+    <string name="humayuns_tomb_place"> Mathura Road Opposite, Hazrat Nizamuddin Aulia Dargah, Mathu
+        ra Rd, Nizamuddin, Nizamuddin East, New Delhi, Delhi 110013</string>
+    <string name="humayuns_tomb_basic">Humayun\'s tomb is the tomb of the Mughal Emperor Humayun in
+        Delhi, India. The tomb was commissioned by Humayun\'s first wife and chief consort, Empress
+        Bega Begum, in 1558, and designed by Mirak Mirza Ghiyas and his son, Sayyid Muhammad, Persia
+        n architects chosen by her.</string>
+    <string name="humayuns_tomb_number">011 2435 5275</string>
+    <string name="humayuns_tomb_timing">Timings:\nMonday - Sunday\n6:00am - 6:00pm</string>
+
+
+    <string name="safdarjungs_tomb_name">Safdarjung\'s Tomb</string>
+    <string name="safdarjungs_tomb_place"> Airforce Golf Course, Delhi Race Club, New Delhi, Delhi 110021</string>
+    <string name="safdarjungs_tomb_basic">Safdarjung\'s Tomb is a sandstone and marble mausoleum in D
+        elhi, India. It was built in 1754 in the late Mughal Empire style for Nawab Safdarjung. The
+        monument has an ambience of spaciousness and an imposing presence with its domed and arched red brown and white coloured structures.</string>
+    <string name="safdarjungs_tomb_number">011 2336 5358</string>
+    <string name="safdarjungs_tomb_timing">Timings:\nMonday - Sunday\n7:00am - 5:00pm</string>
+
+
+    <string name="rashtrapati_bhawan_name">Rashtrapati Bhawan</string>
+    <string name="rashtrapati_bhawan_place">Rashtrapati Bhawan, President\'s Estate, New Delhi, Delhi 110004</string>
+    <string name="rashtrapati_bhawan_basic">The Rashtrapati Bhavan Presidential Palace\;originally
+        Viceroy\'s House and later Government House is the official residence of the President of
+        India at the western end of Rajpath in New Delhi, India. Rashtrapati Bhavan may refer to
+        only the 340-room main building that has the president\'s official residence, including
+        reception halls, guest rooms and offices, also called the mansion</string>
+    <string name="rashtrapati_bhawan_number">011 2301 5321</string>
+    <string name="rashtrapati_bhawan_timing">Timings:\nMonday - Wednesday\nClosed\nThursday - Sunday\n9:00am - 4:00pm</string>
+
+
+    <string name="purana_qila_name">Purana Qila</string>
+    <string name="purana_qila_place"> Mathura Rd, Near Delhi Zoo, New Delhi, Delhi 110003</string>
+    <string name="purana_qila_basic">Purana Qila, Hindustani for "Old Fort" also formerly called
+        Shergarh and Sher Fort is one of the oldest forts in Delhi, India. It is located near the
+        expansive Pragati Maidan exhibition ground and is separated from the Dhyanchand Stadium by the Mathura Road, Delhi.</string>
+    <string name="purana_qila_number">011 2336 5358</string>
+    <string name="purana_qila_timing">Timings:\nMonday - Sunday\n7:00am - 5:00pm</string>
+
+
+    <string name="jama_masjid_name">Jama Masjid</string>
+    <string name="jama_masjid_place">Jama Masjid Rd, Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="jama_masjid_basic">The Masjid-i Jehan-Numa, commonly known as the Jama Masjid of
+        Delhi, is one of the largest mosques in India. It was built by the Mughal Emperor Shah Jahan
+        between 1650 and 1656, and inaugurated by its first Imam, Syed Abdul Ghafoor Shah Bukhari.</string>
+    <string name="jama_masjid_number">011 2336 5358</string>
+    <string name="jama_masjid_timing">Timings:\nMonday - Friday\n7:00am - 12:00pm\n1:30pm - 6:30pm</string>
+
+    <string name="parliament_house_name">Parliament House</string>
+    <string name="parliament_house_place">Sansad Marg, Gokul Nagar, Janpath, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="parliament_house_basic">The Parliament of India (IAST: Bhāratīya Sansad) is the
+        supreme legislative body of the Republic of India. It is a bicameral legislature composed of
+        the President of India and the two houses: the Rajya Sabha (Council of States) and the Lok
+        Sabha (House of the People). The President in his role as head of legislature has full powers
+        to summon and prorogue either house of Parliament or to dissolve Lok Sabha. The president can
+        exercise these powers only upon the advice of the Prime Minister and his Union Council of Ministers.</string>
+    <string name="parliament_house_number">011 2303 4632</string>
+    <string name="parliament_house_timing">Timings:\nMonday - Friday\n11:00am - 5:00pm\nSaturday - Sunday\nClosed</string>
+
+
+    <string name="tughlaqabad_fort_name">Tughlaqabad Fort</string>
+    <string name="tughlaqabad_fort_place">Tughlaqabad Fort, Tughlakabad, New Delhi, Delhi 110044</string>
+    <string name="tughlaqabad_fort_basic">Tughlaqabad Fort is a ruined fort in Delhi, built by Ghiyas
+        -ud-din Tughlaq, the founder of Tughlaq dynasty, of the Delhi Sultanate of India in 1321, as
+        he established the third historic city of Delhi, which was later abandoned in 1327.</string>
+    <string name="tughlaqabad_fort_number"> 011 2332 0005</string>
+    <string name="tughlaqabad_fort_timing">Timings:\nMonday - Sunday\n7:00am - 5:00pm</string>
+
+
+    <string name="chatarpur_temple_name">Chatarpur Temple</string>
+    <string name="chatarpur_temple_place"> Chattarpur Mandir Rd, Ansal Villas, Chhatarpur, New Delhi, Delhi 110030</string>
+    <string name="chatarpur_temple_basic">Chhatarpur Mandir Timings  in Delhi is one of the most
+        popular destinations for tourists and devotees alike. The temple is dedicated to Maa Katyayani,
+        an Avatar of Durga Mata, created jointly by Shri Brahma, Vishnu, and Mahesh. This huge
+        complex spread over 70 acres of land houses over 30 temples dedicated to various deities.
+        Both Navratris (Ashwin and Chaitra) are celebrated in a grand manner attended by a large
+        number of devotees.</string>
+    <string name="chatarpur_temple_number">011 2680 2925</string>
+    <string name="chatarpur_temple_timing">Timings:\nMonday - Sunday\n4:00am - 7:00pm</string>
+
+
+    <string name="akshardham_temple_name">Akshardham Temple</string>
+    <string name="akshardham_temple_place">Noida Mor, Pandav Nagar, New Delhi, Delhi 110092</string>
+    <string name="akshardham_temple_basic">Swaminarayan Akshardham (New Delhi) is a Hindu temple, and
+        spiritual-cultural campus in New Delhi, India. The temple is close to the border with Noida.
+        Also referred to as Akshardham Temple or Akshardham Delhi, the complex displays millennia of
+        traditional and modern Hindu culture, spirituality, and architecture.</string>
+    <string name="akshardham_temple_number">011 4344 2344</string>
+    <string name="akshardham_temple_timing">Timings:\nMonday\nClosed\nTuesday - Saturday\n10:00am - 6:30pm</string>
+
+
+    <string name="lotus_temple_name">Lotus Temple</string>
+    <string name="lotus_temple_place">Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi, Delhi 110019</string>
+    <string name="lotus_temple_basic">The Lotus Temple, located in Delhi, India, is a Baháʼí House of
+        Worship that was dedicated in December 1986. Notable for its flowerlike shape, it has become
+        a prominent attraction in the city. Like all Houses of Worship, the Lotus Temple is open to
+        all, regardless of religion or any other qualification.</string>
+    <string name="lotus_temple_number"> 011 2644 4029</string>
+    <string name="lotus_temple_timing">Timings:\nMonday\nClosed\nTuesday - Sunday\n9:00am - 7:00pm (Summers)\n9:00am - 5:30pm (Winters)</string>
+
+
+    <string name="bangla_sahib_name">Bangla Sahib Gurudwara</string>
+    <string name="bangla_sahib_place"> Baba Kharak Singh Rd, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="bangla_sahib_basic">Gurudwara Bangla Sahib is one of the most prominent Sikh gurdwara
+        , or Sikh house of worship, in Delhi, India, and known for its association with the eighth
+        Sikh Guru, Guru Har Krishan, as well as the holy river inside its complex, known as the "Sarovar."</string>
+    <string name="bangla_sahib_number">011 2334 0177</string>
+    <string name="bangla_sahib_timing">Timings:\nOpen 24 hours</string>
+
+
+    <string name="bercos_name">Bercos</string>
+    <string name="bercos_place"> E-42/43, Rajiv Chowk, Block E, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="bercos_basic">Berco\'s by QBA is an ideal destination for all food lovers. The
+        restaurant features authentic Chinese and Thai cuisine in its pocket-friendly menu.
+        Contrasting flavours and spices are combined to bring out a sense of balance on your palate.
+        The luxurious ambience complements the quality of the dishes. The Sauces, ingredients, and
+        spices are specially handpicked by trained chefs. Berco\'s by QBA is a place where every diner
+        finds his/her personal favorite dish from the A-la-Carte.</string>
+    <string name="bercos_number">081305 00923</string>
+    <string name="bercos_timing">Timings:\nMonday - Sunday\n12:00pm - 8:00pm</string>
+
+
+    <string name="oliveBar_name">Olive Bar and Kitchen</string>
+    <string name="oliveBar_place">Mile 6, One Style, 8, Kalka Das Marg, Seth Sarai, Mehrauli, New Delhi, Delhi 110030</string>
+    <string name="oliveBar_basic">Olive Qutub, is a rustic hideaway where good food, laughter, culture,
+        and conversation come together in a delightful melting pot. Fashion, art, music and style fuse
+        here to create an unforgettable Mediterranean mosaic. Dappled sunlight on soft armchairs.
+        A white pebbled courtyard punctuated by bougainvillaea. Worlds collide and time stops in this
+        Mogul mansion turned alfresco Mediterranean restaurant; home to warm and casual elegance,
+        with its beautiful white walls, the white pebbled courtyard with a vast canopy of the Banyan
+        tree, and the stunning star-lit tree-top terrace bar under the shadow of the Qutub Minar.</string>
+    <string name="oliveBar_number">098102 35472</string>
+    <string name="oliveBar_timing">Timings:\nMonday - Sunday\n12:00pm - 9:30pm</string>
+
+
+    <string name="farzicafe_name">Farzi Cafe</string>
+    <string name="farzicafe_place">E-38/39, Rajiv Chowk, Inner Circle, Block E, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="farzicafe_basic">Taking care of hunger pangs till as late as 1:00AM, Farzi Cafe is
+        a casual dining restaurant serving Modern Indian preparations. A highly-rated place in Connaught
+        Place (CP), it is praised for its timely service and is a nice joint to visit when one is
+        looking to satiate hunger pangs with tasty, hygienic food at reasonable prices.</string>
+    <string name="farzicafe_number">095998 89701</string>
+    <string name="farzicafe_timing">Timings:\nMonday - Sunday\n11am - 9pm</string>
+
+
+    <string name="indianAccent_name">Indian Accent</string>
+    <string name="indianAccent_place">The Lodhi, Lodhi Rd, CGO Complex, Pragati Vihar, New Delhi, Delhi 110003</string>
+    <string name="indianAccent_basic">Featured in the list of Asia’s 50 Best Restaurants, Indian
+        Accent, is located inside The Lodhi Hotel, Lodhi Road, New Delhi. The restaurant is known
+        for its inventive modern Indian cooking. Guests can also enjoy their favorite glass of wine
+        along with the exotic food at this luxury dining restaurant. Indian Accent at the Lodhi has
+        a rich and plush ambiance and is perfect for any kind of celebration with friends and family. </string>
+    <string name="indianAccent_number">011 4323 5151</string>
+    <string name="indianAccent_timing">Timings:\nMonday - Sunday\n12:00pm - 8:00pm</string>
+
+
+    <string name="pindBaluchi_name">Pind Baluchi</string>
+    <string name="pindBaluchi_place">Scindia House, 1/3, Janpath, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="pindBaluchi_basic">Pind Balluchi is a popular chain of restaurants that serve Indian
+        cuisine from the province of Punjab, which is known for its spicy indulgence and the rich aroma.
+        The various ingredients and rich gravy preparation provide a soul-satisfying taste to the diners.
+        The outlet is located in Scindia House, Janpath, Delhi. Pind Balluchi has a spacious and eluality
+        time with families who are equally in love with authentic Indian curry dishes. </string>
+    <string name="pindBaluchi_number">099106 29368</string>
+    <string name="pindBaluchi_timing">Timings:\nMonday - Sunday\n12:00pm - 11:00pm</string>
+
+
+    <string name="motiMahal_name">Moti Mahal Delux</string>
+    <string name="motiMahal_place"> M30, Greater Kailash 1 Rd, Greater Kailash-1, M Block, Market,
+        Greater Kailash, New Delhi, Delhi 110048</string>
+    <string name="motiMahal_basic">Moti Mahal Delux is a chain of restaurants specializing in North
+        Indian cuisine. The food served here is inspired by different provinces of Indian States,
+        where the aroma changes after every few kilometers. The spicy indulgence and rich aroma surely
+        make everyone savor the relishing taste of authentic Indian delicacies. This Restaurant offers
+        varied dishes which are liked by one and all. The ambiance is as expressive and cheerful as
+        the style of cooking and takes you on a fun ride. </string>
+    <string name="motiMahal_number">011 2923 0480</string>
+    <string name="motiMahal_timing">Timings:\nMonday\n12:00pm - 3:30pm\n7:00pm - 12:00am\nTuesday\nClosed\nWednesday - Sunday\n12:00pm - 3:30pm\n7:00pm - 12:00am</string>
+
+
+    <string name="hauzkhasSocial_name">Hauz Khas Social</string>
+    <string name="hauzkhasSocial_place">9A12, Hauz Khas Fort Rd, Deer Park, New Delhi, Delhi 110016</string>
+    <string name="hauzkhasSocial_basic">Hauz Khas Social blends the best of both worlds, you can
+        enjoy good music and food at the same place. This is the perfect place for people to have fun
+        and unwind after a hectic day at work. Social is an all-day café and bar where you can work
+        and play with fun drinks and comfort food. It\'s an urban hangout place that is designed to
+        take you offline while still keeping you connected. The extensive menu of Social offers a
+        range of American, Continental, North Indian, and Asian dishes along with an array of drinks
+        and exotic cocktails. Hauz Khas Social is located near the Delhi Art Gallery in Hauz Khas Village</string>
+    <string name="hauzkhasSocial_number">078386 52814</string>
+    <string name="hauzkhasSocial_timing">Timings:\nMonday - Sunday\n12:00pm - 11:00pm</string>
+
+
+    <string name="ardor_name">Ardor 2.1</string>
+    <string name="ardor_place"> 55, 56 and 88, 89, Connaught Cir, Block N, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="ardor_basic">Ardor 2.1 Restaurant and Lounge is a multi-cuisine casual dining
+        restaurant with a classic aura paired up with a spectacular outdoor seating that pampers the
+        various dishes being hand-picked by the trained chefs. The menu has got so much to offer in
+        the a-la-carte. An addition to the offering is a trendy and a well-stocked bar. Ardor 2.1
+        Restaurant and Lounge is located in Connaught place and it stands opposite to Scindia House</string>
+    <string name="ardor_number">98117 66888</string>
+    <string name="ardor_timing">Timings:\nMonday - Sunday\n12:30pm - 12:00am</string>
+
+
+    <string name="amaCafe_name">Ama Cafe</string>
+    <string name="amaCafe_place">House no. 6, First Floor New Camp Majnu-ka-tilla, New Aruna Nagar, New Delhi, Delhi 110054</string>
+    <string name="amaCafe_basic">Budget Friendly Food, Price Vs Portion Ratio, Aesthetic Ambience,
+        Pretty Cafe, Cozy Vibe, Soothing Ambience</string>
+    <string name="amaCafe_number">74289 13444</string>
+    <string name="amaCafe_timing">Timings:\nMonday - Sunday\n8:00am - 9:00pm</string>
+
+
+    <string name="lord_name">Lord of Drinks</string>
+    <string name="lord_place"> G-72, Radial Rd Number 2, Block G, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="lord_basic">Lord of the Drinks is located in the heart of Delhi and is a place
+        where you will get a variety of drinks and a lively and awesome ambience. The ambiance gives
+        you a rustic cottage feel, credits to great interiors and furniture from Bent Chair.
+        The spacious and luxurious outdoors won\'t disappoint if you want a fantastic view of Connaught
+        Place. This place is an instant hit amongst youngsters and amongst people who wants to experience
+        the nightlife. For all music lovers and for people who like to groove and move, there is no
+        better place than Lord of the Drinks. </string>
+    <string name="lord_number"> 099998 27144</string>
+    <string name="lord_timing">Timings:\nMonday - Sunday\n11:30am - 12:00am</string>
+
+
+    <string name="summerHouse_name">Summer House Cafe</string>
+    <string name="summerHouse_place">1st Aurobindo Place Market, Sri Aurobindo Marg, Hauz Khas, New Delhi, Delhi 110016</string>
+    <string name="summerHouse_basic">About
+Summer House Cafe is a specialty restaurant that is located in one of the most buzzing places in Delhi
+        - Hauz Khas and the nearest landmark is Midland Book Shop. It is a place where you can relish
+        every bite of carefully prepared Italian and Continental cuisines and that too at a price that
+        is light on your pocket. The spick and span decor of the place leaves you captivating. The
+        dedicated staff is always on its toes to make sure everything falls into place smoothly. An
+        addition to the awesomeness is a well-set bar. Summer House Cafe is a perfect place for people
+        who want to go to a place that is cost-effective and at the same time gives satisfactory returns.</string>
+    <string name="summerHouse_number">098102 00780</string>
+    <string name="summerHouse_timing">Timings:\nMonday - Sunday\n12pm - 1am</string>
+
+
+    <string name="diggin_name">Diggin</string>
+    <string name="diggin_place"> No.1 and 2 Anand Lok Shopping Centre, opp. Gargi College, Anand Lok, New Delhi, Delhi 110049</string>
+    <string name="diggin_basic">Diggin is a specialty restaurant that is located in Anand Lok and it
+        stands opposite to Gargi College. It is a place for people who like to stick to their favorite
+        cuisine and do not like to experiment much. Diggin respects their choice by offering well-prepared
+        and mouth-watering Italian cuisine along with delicious and fresh Bakery and Confectionary items.
+        The place also holds a subtle ambiance and makes sure you land up at the same place when it
+        comes to having your favorite cuisine in the most authentic form. An addition to the offering
+        is the outdoor seating area available there.</string>
+    <string name="diggin_number">011 4080 0081</string>
+    <string name="diggin_timing">Timings:\n11:30pm - 8:00pm</string>
+
+
+    <string name="naive_name">Naivedeyam</string>
+    <string name="naive_place"> 1, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016</string>
+    <string name="naive_basic">Naivedyam is a specialty restaurant that is located in Hauz Khaz. It
+        is a place for people who like to stick to their favorite cuisine and do not like to experiment
+        much. Naivedyam respects their choice by offering well-prepared and mouth-watering South Indian
+        cuisine. The place also holds a subtle ambiance and makes sure you land up at the same place
+        when it comes to having your favorite cuisine in the most authentic form. The nearest landmark is Deer Park. </string>
+    <string name="naive_number">011 2696 0426</string>
+    <string name="naive_timing">Timings:\n10:00am - 11:00pm</string>
+
+    <string name="naturals_name">Naturals Ice Cream</string>\
+    <string name="naturals_place">Block L, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="naturals_basic">Natural Ice Cream is an Ice Cream joint chain in India serving a
+        range of flavorful ice creams. The place has been a pioneer in making artisan ice creams
+        using only fruits, dry fruits, chocolates, milk, and sugar. Natural Ice Cream offers fresh
+        ice creams made from natural ingredients with no synthetic flavors or essences. The menu is
+        pocket-friendly and exclusive. Natural Ice Cream has various outlets spread all across the
+        country. This outlet is located near Theme Music Institute in Connaught Place, Central Delhi.</string>
+    <string name="naturals_number">83684 36163</string>
+    <string name="naturals_timing">Timings:\nMonday - Sunday\n10:00am - 1:00am</string>
+
+
+    <string name="select_name">Select City Walk"</string>
+    <string name="select_place">A-3, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi, Delhi 110017</string>
+    <string name="select_basic">Select CITYWALK is spread out over 6 lakh sq. ft. of retail space and
+        is home to more than 175 brands. It offers the widest range of labels, we assure you – if
+        there’s something you need, want or is a part of your wish list, your wishes will be fulfilled!
+        Not only do we house a plethora of stores, but we also bring you a number of high-street brands
+        to provide a lively outdoor shopping experience, numerous carts and kiosks to pick up fun,
+        exciting products spread across the centre!</string>
+    <string name="select_number">011 4211 4200</string>
+    <string name="select_timing">Timings:\nMonday - Sunday\n10:00am - 8:00pm</string>
+
+
+    <string name="emporio_name">DLF Emporio</string>
+    <string name="emporio_place">4, Nelson Mandela Marg, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070</string>
+    <string name="emporio_basic">DLF Emporio has been designed as a name synonymous with luxury -
+        offering a unique shopping experience where the accent is on exclusivity, space and aesthetics.
+        There is simply no other place where such a wealth of designer and luxury merchandise, lifestyle
+        products and services are showcased under one elegant roof. The nuances of luxurious serenity
+        are going to be expressed at DLF Emporio in a way found only in the fashion capitals of the world,
+        offering just the right kind of tasteful and sublime ambience to attract high value spenders.</string>
+    <string name="emporio_number">011 4611 6666</string>
+    <string name="emporio_timing">Timings:\nMonday - Sunday\n11:00am - 9:00pm</string>
+
+
+    <string name="promenade_name">DLF Promenade</string>
+    <string name="promenade_place">Vasant Kunj Mall Road, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070</string>
+    <string name="promenade_basic">Located on the Nelson Mandela road in the heart of Vasant Kunj is
+        DLF Promenade, a mall for the trend-conscious discerning customers of Delhi and NCR. By the
+        virtue of its offerings, DLF Promenade has earned the distinction of being the Delhi’s fashion
+        capital. Spread over 4.6 lacs of square foot area, DLF Promenade caters to customers who are
+        looking for a quality shopping experience coupled with a chic ambience.</string>
+    <string name="promenade_number">011 4610 4466</string>
+    <string name="promenade_timing">Timings:\nMonday - Sunday\n11:00am - 11:00pm</string>
+
+
+    <string name="ambience_name">Ambience Mall</string>
+    <string name="ambience_place"> 2, Nelson Mandela Marg, Ambience Island, Vasant Kunj II, Vasant Kunj, New Delhi, Delhi 110070</string>
+    <string name="ambience_basic">All sales, stores, restaurants, offers, events, promotions at Ambience
+        Mall Vasant Kunj. Ambience Mall, Vasant Kunj is an integrated shopping mall on the Nelson Mandela
+        Road (part of the Outer Ring Road of New Delhi) and enroute to the International Airport.
+        Nelson Mandela Road provides easy connectivity to other parts of New Delhi, especially the
+        up-market areas of Vasant Vihar, West End, Shanti Niketan and Vasant Kunj. The mall is a part
+        of the Vasant Kunj Shopping Mall Complex proposed by DDA in Delhi consisting of two other s
+        hopping malls and Corporate Offices. The mall overlooks a 650 acre bio-diversity Park and the
+        landscaped grounds of Jawaharlal Nehru University. The mall will offer a wide range of entertainment
+        and recreational facilities, including four anchor stores, hypermarket, a four-screen multiplex
+        cinema, food court, restaurants, a discotheque, a beer garden a family entertainment centre,
+        a kids play zone, a fitness and recreation centre, and car show room. The mall has over 1800
+        car parking spaces and offers amenities such as wide atrium spaces, high speed elevators and
+        escalators, multiple entry/exits and power back-ups.</string>
+    <string name="ambience_number">81303 50002</string>
+    <string name="ambience_timing">Timings:\nMonday - Sunday\n10:00am - 10:00pm</string>
+
+
+    <string name="dlfPlace_name">DLF Place</string>
+    <string name="dlfPlace_place"> A4, Press Enclave Marg, Saket District Centre, District Centre,
+        Sector 6, Pushp Vihar, New Delhi, Delhi 110017</string>
+    <string name="dlfPlace_basic">The DLF Avenue Experience
+DLF Avenue is a distinctly different kind of mall—one that brings together shopping, dining and culture
+        through a curated experience for the whole community.</string>
+    <string name="dlfPlace_number">011 4606 4444</string>
+    <string name="dlfPlace_timing">Timings:\nMonday - Sunday\n11:00am - 8:00pm</string>
+
+
+    <string name="dlfCity_name">DLF City Centre</string>
+    <string name="dlfCity_place">191, Shaheed Udham Singh Marg, Block AP, Poorbi Shalimar Bag, Shalimar Bagh, Delhi, 110088</string>
+    <string name="dlfCity_basic">City Centre is situated in North Delhi, an untapped land of opportunities
+        that comprises a populace with high purchasing power. Situated in Community Centre, Block-A,
+        Shalimar Bagh, the City Centre is planned as one of the most modern shopping-cum-entertainment
+        centers in North-West Delhi. </string>
+    <string name="dlfCity_number">08607086391</string>
+    <string name="dlfCity_timing">Timings:\nMonday - Sunday\n10:00am - 12:00pm</string>
+
+
+    <string name="pacific_name">Pacific Mall</string>
+    <string name="pacific_place">Najafgarh Rd, Tagore Garden, Tilak Nagar, New Delhi, Delhi 110018</string>
+    <string name="pacific_basic">At Pacific Mall, you will find a plethora of options for shopping,
+        dining, and entertainment that impressively suit your taste and budget. Several prominent retailers
+        from across the world join side by side to offer the finest shopping experience. Similarly,
+        we have brought handpicked the best culinary outlets to suit your taste and budget. From a grand and luxury cinema theatre to a gaming parlour with many arcades games, and from
+        complete vegetarian menus to non-veggies bliss, everything is under a single roof. Spread across
+        the massive area of 600,000 sq. ft., the mall has enough to offer you a wide variety of brands.</string>
+    <string name="pacific_number">099533 99833</string>
+    <string name="pacific_timing">Timings:\nMonday - Sunday\n10:00am - 8:00pm</string>
+
+
+    <string name="ansal_name">Ansal Plaza</string>
+    <string name="ansal_place">Hudco Place, Andrews Ganj Extension, Andrews Ganj, New Delhi, Delhi 110049</string>
+    <string name="ansal_basic">Ansal plaza is the first mall of Delhi opened on 1 November’ 1999.
+        The mall was established by Ansal properties and infrastructure Ltd. The mall is located at
+        Andrews Ganj, on Khel Gaon Marg, in South Delhi. The mall is built in a circular fashion around
+        an amphitheatre, where cultural events are organised from time to time. There is 45 foot high
+        atrium with French glass curtain wall. The wall filters out ultraviolet and other harmful radiation.
+        The mall houses many prominent brands like Adidas, Mc Donalds, Shoppers Stop, Nike, Reebok etc.
+        There are also shops selling accessories, music and other trendy lifestyle products like Apple stores.
+        There are numerous options available at the food court with various restaurants. There is a
+        Big Cinema multiplex at Ansal Plaza with multiple show timings for enjoying the movies. The
+        mall has a parking capacity of 1000 cars.</string>
+    <string name="ansal_number">011 2625 0957</string>
+    <string name="ansal_timing">Timings\Monday - Sunday\n9:30am - 9:30pm</string>
+
+
+    <string name="metro_name">Metro Walk</string>
+    <string name="metro_place">Metro Walk Mall, Near Rithala Metro Station, Sector 10, Rohini, New Delhi, Delhi 110085</string>
+    <string name="metro_basic">The place is a two story open shopping mall having several restaurants
+        and bars. One can sit along the lake and enjoy cool air. There is a small multiple nozzle
+        fountain at the main entrance attracting all. One can go to Adventure Island if they want water
+        and adventure sports.</string>
+    <string name="metro_number">011 4704 4111</string>
+    <string name="metro_timing">Timings:\nMonday - Sunday\n11:00am - 10:00pm</string>
+
+
+    <string name="westGate_name">West Gate Mall</string>
+    <string name="westGate_place">4-5-6, Shivaji district centre metro station, Shivaji Place, Rajouri Garden, New Delhi, Delhi 110027</string>
+    <string name="westGate_basic">This mall is one of the most Prominent Shopping and Leisure destination
+        in the capital city. The West Gate Mall is one of the larger malls in the area of West Delhi,
+        being one of the 5 malls located in the general area of Shivaji Place District Centre, Rajouri
+        Garden, West Delhi. West Gate mall Rajouri Garden was developed by the Today Homes Group.
+        This mall is a convenient one stop destination point for the localities nearby, such as Punjabi
+        Bagh, Rajouri Garden, Tilak Nagar,Mansarovar Garden, Kirti Nagar, Paschim Vihar and Patel Nagar.
+        Unlike other malls, the basic facilities like Washrooms are very clean, lifts and escalators
+        are very well maintained and the premises is kept neat and tidy.</string>
+    <string name="westGate_number">011 4550 8092</string>
+    <string name="westGate_timing">Timings:\nMonday - Sunday\n 10:00am - 11:00pm</string>
+
+
+    <string name="dilliHaat_name">Dilli Haat</string>
+    <string name="dilliHaat_place"> INA Market, Dilli Haat, Kidwai Nagar West, Kidwai Nagar, Delhi, 110023</string>
+    <string name="dilliHaat_basic">The DILLI HAAT provides the ambience of a traditional Rural Haat
+        or village market, but one suited for more contemporary needs. Here one sees a synthesis of
+        crafts, food and cultural activity. This Food and Craft Bazar is a treasure house of Indian
+        culture, handicrafts and ethnic cuisine, A unique bazaar, in the heart of the city, it displays
+        the richness of Indian culture on a permanent basis. Step inside the complex for an altogether
+        delightful experience by either buying inimitable ethnic wares, savouring the delicacies of
+        different states or by simply relaxing in the evening with the entire family.</string>
+    <string name="dilliHaat_number">011 2611 9055</string>
+    <string name="dilliHaat_timing">Timings:\nMonday - Sunday\n10:30am - 10:00pm</string>
+
+
+    <string name="janpathMarket_name">Janpath Market</string>
+    <string name="janpathMarket_place">Janpath Rd, Janpath, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="janpathMarket_basic">Here you get to do the best of street shopping. You will mostly
+        find small kiosks selling all kinds of cotton clothes and curios. The clothes are generally
+        export-surplus garments and are sold dirt-cheap. There\'s lots of silver and artificial jewellery
+        studded with semi-precious stones available here. Refugees who came after the Partition and
+        Tibetans who came when China invaded Tibet settled here as traders. Shopping here requires a
+        couple of skills. One, you must have the ability to distinguish the fake from the genuine.
+        Two, you must know and practice the art of bargaining patiently.</string>
+    <string name="janpathMarket_number">011 2336 5358</string>
+    <string name="janpathMarket_timing">Timings:\nMonday - Sunday\n11:00am - 9:00pm</string>
+
+
+    <string name="khanMarket_name">Khan Market</string>
+    <string name="khanMarket_place">61A, Khan Market, Rabindra Nagar, New Delhi, Delhi 110003</string>
+    <string name="khanMarket_basic">Classy and posh, Khan Market is a favourite of the expat and diplomatic community.
+        It was originally allocated as seed land to immigrants from the North-West Frontier
+        Province after the partition of India. Today, it is a popular shopping destination in Delhi.
+        It is a large U-shaped market with two parallel ‘U’s and some extensions. You will find excellent
+        book shops, up-market boutiques, opticians, grocers, tailors, brand showrooms, lifestyle stores,
+        etc here and There are also a couple of boutiques selling up-market household furnishings. Across
+        the road are shops that specialize mainly in lighting. You will also find many eating joints:
+        cafes, restaurants, bakeries and street-food corners.</string>
+    <string name="khanMarket_number">011 2336 5358</string>
+    <string name="khanMarket_timing">Timings:\nMonday - Sunday\n10:00am - 12:00am</string>
+
+
+    <string name="sarojiniMarket_name">Sarojini Market</string>
+    <string name="sarojiniMarket_place">Sarojini Nagar, New Delhi - 110023</string>
+    <string name="sarojiniMarket_basic">At the Sarojini Nagar Market you get fashionable clothes at
+        affordable prices. Export-surplus garments as well as rejected export clothing come to this
+        market at throwaway prices. That is why product of even reputed brands available here at
+        cheap prices. But don\'t expect trial or changing rooms at street-side shops. Besides, use
+        your art of haggling. The market remains closed on Mondays. There are different areas within
+        the market. Babu Market houses several sweet shops. The many shoe shops in the vicinity of
+        the market also catch the eye. Subzi Mundi offers the freshest and choicest fruits and fresh
+        vegetables.</string>
+    <string name="sarojiniMarket_number">011 2336 5358</string>
+    <string name="sarojiniMarket_timing">Timings:\nMonday\nClosed\nTuesday - Sunday\n11:00am - 9:00pm</string>
+
+
+    <string name="chandniChowk_name">Chandni Chowk Market</string>
+    <string name="chandniChowk_place"> 2573, Nai Sarak, Raghu Ganj, Roshanpura, Old Delhi, New Delhi, Delhi 110006</string>
+    <string name="chandniChowk_basic">This old market has retained its charm and historic value over
+        the year. It was built in the 17th century by the Mughal ruler Shah Jahan, opposite Lal Quila
+        and close to Fatehpuri Mosque. There is a rather interesting story scribbled in the history
+        on how the place got its name. There was a pool at the centre of place, that reflected the
+        moon. Hence, it was named as Chandni Chowk or Moonlight Square. Chandni Chowk is a shoppers
+        paradise in true sense. The narrow streets of Chandni Chowk have shops that are struggling
+        for space. However, shopping at Chandni Chowk is different level of fun. The kind of variety
+        you get there is unmatchable and that too, at the most reasonable prices. The market is divided
+        into several narrow streets where one can get variety of clothes, jewellry, candles, perfumes,
+        lifestyle items, et al.</string>
+    <string name="chandniChowk_number">011 2336 5358</string>
+    <string name="chandniChowk_timing">Timings:\nMonday - Saturday\n9:00am - 8:00pm\nSunday\nClosed</string>
+
+
+    <string name="central_name">Central Market(Lajpat Nagar Market)</string>
+    <string name="central_place">Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024
+</string>
+    <string name="central_basic">Lajpat Nagar is a popular shopping area where you can get whatever
+        you desire - accessories, clothes, footwear, bags, etc. The garments
+at Hakoba range from saris and salwar kameezes for women to kurtas and kurtis for both men and women.
+        The Lucknowi embroidery, which is mostly done in white-coloured threads, is breathtaking and
+        of very high quality. Karan and Nasir have been revolutionizing the way men dress. RCKC has
+        carved a niche for itself in the international market with labels like Anamika and RISA by Abhijeet Khanna.</string>
+    <string name="central_number">011 2336 5358</string>
+    <string name="central_timing">Timings:\nMonday\nClosed\nTuesday - Sunday\n10:00am - 9:00pm</string>
+
+
+    <string name="canaught_name">Canaught PLace Market</string>
+    <string name="canaught_place">Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="canaught_basic">When it came into being, the sprawling circular market was the 
+        largest of its kind in India. The British believed that the horseshoe-shaped market would 
+        prove lucky for the shoppers and the shopkeepers both. This market has two circles. The Inner
+        Circle consists of Blocks A to F. The important shops and showrooms here include Adidas Originals
+        , Allen Solly, Bentley, Bon Ton, Cantabil, Gas, Johnson Watch Company, Kalpana, Lee, Louis Philippe
+        , Neelkanth Jewellers, Nike, Orra, Park Avenue, Pepe, Proline and Fila, Roopchand Jewellers, 
+        Snowhite Square, Wills Lifestyle. Mohanlal Sons promises to give you ready or tailored attires
+        to suit every occasion. Known for its quality and good service, you will find here a wide 
+        range of shirts, trousers, jackets, suits, kurtas and sherwanis. The Outer Circle consists of
+        Blocks G to P. Showrooms like Digjam, Lacoste, Omega, Rado, RL Exports and TAG Heuer lie in this circle.</string>
+    <string name="canaught_number">011 2336 5358</string>
+    <string name="canaught_timing">Timings:\nMonday - Sunday\n10:00am - 11:00pm</string>
+
+
+    <string name="karol_name">Karol Bagh Market</string>
+    <string name="karol_place"> Block 1, WEA, Karol Bagh, New Delhi, Delhi 110060</string>
+    <string name="karol_basic">Karol Bagh is a shopper\'s delight for you can find virtually everything
+        here. Ajmal Khan Road has long been famous for inexpensive readymades, cotton yarn and embroidered
+        garments. But now international labels have also become equally familiar. At Arya Samaj Road
+        you can buy second-hand books. Bank Street has a row of shops displaying gold jewellery.
+        Ghaffar Market is famous for imported goods.</string>
+    <string name="karol_number">011 2336 5358</string>
+    <string name="karol_timing">Timings:\nMonday\nClosed\nTuesday - Sunday\n10:00am - 10:00pm</string>
+
+
+    <string name="paharganj_name">Paharganj Market</string>
+    <string name="paharganj_place">Multani Dhanda, Paharganj, New Delhi, Delhi 110055</string>
+    <string name="paharganj_number">011 2336 5358</string>
+    <string name="paharganj_basic">As you step out of the New Delhi Railway Station and cross the road,
+        you stand at the entrance of Paharganj Main Bazaar. Stretching for about a kilometre, it is
+        a bargainer\'s paradise. Chaotic, noisy and dirty, the market is only for shoppers who are
+        rough and tough. The whole Main Bazaar is lined with shops full to the brim with books, music,
+        jewellery, bags, clothes, shoes, incense, textiles, wooden statues, and handicrafts. Shanti
+        Handloom and other textile shops offer bags, bed spreads, cushion covers, wall hangings, etc.
+        The jewellery shops sell handmade beaded necklaces and bangles in every shape, size and colour.
+        Carved wooden statues of gods and goddesses, brass wares and decorations are available among handicrafts.
+        Prayer Incense Worldwide specializes in incense sticks, incense cones and Indian tea. Even books,
+        both new and second-hand, are available.</string>
+    <string name="paharganj_timing">Timings:\nMonday\nClosed\nTuesday - Sunday\n10:00am - 9:00pm</string>
+
+
+    <string name="palika_name">Palika Bazaar</string>
+    <string name="palika_place">Canaught Place, New Delhi - 110001</string>
+    <string name="palika_basic">This underground, air-conditioned market located below the inner circle
+        of Connaught Place was set up in the late 1970s. It is especially famous for cheap electronic
+        goods and clothes. From footwear to clothing to nightwear to perfumes to accessories to electronic
+        gadgets to DVDs and CDs, you will get a wide range of products in this massive market. You may
+        also buy curios and small knick-knacks to take back home as souvenirs. There are hundreds of
+        shops in Palika Bazaar. It is estimated to have some 15,000 people within its confines at any
+        given time and also attracts many foreign tourists. Although bargaining is the mantra for
+        shopping anywhere in Delhi, it must be followed here rigorously.</string>
+    <string name="palika_number">011 2336 5358</string>
+    <string name="palika_timing">Timings:\nMonday - Sunday\n9:00am - 5:00pm\nSunday\nClosed</string>
+
+
+    <string name="book_name">Books Market</string>
+    <string name="book_place">Asaf Ali Rd, Chatta lal Miya, Chandni Mahal, Daryaganj, New Delhi, Delhi 110002</string>
+    <string name="book_basic">Be it the latest best-seller or an out-of-print book, Delhi is a hot
+        destination for buying books. Stretching for more than a kilometre, the Daryaganj Old Book
+        Market is often referred to as the world\'s largest weekly book market. It is organised
+        every Sunday. Most of the books available here are used. Besides the throwaway price, the 
+        availability of a wide variety and out-of-print, difficult-to-find books draws buyers here. 
+        From fiction to medical sciences, architecture to cookery, comics to atlases, classics to 
+        magazines, and management to hobbies, name any genre and you can find it here.</string>
+    <string name="book_number">011 2336 5358</string>
+    <string name="book_timing">Timings\nSunday\n9am - 6pm</string>
+
+
+    <string name="meena_name">Meena Bazaar</string>
+    <string name="meena_place">Red Fort, New Delhi - 110006</string>
+    <string name="meena_basic">Located between Jama Masjid and Dariba Kalan is the ancient market
+        Meena Bazaar in Delhi. Just below the massive stairs of the Jama Masjid is the bieatiful
+        market place. From Jama Masjid to Khari Baoli, from Chitli Qabar to Balli Maran, Delhi evokes
+        a medieval charm and elegance. The Bazaar was built in the1970’s. The area comprises of a host
+        of shops on both sides selling paans, burqas (veils worn by Muslim women), caps and pictures
+        of famous Islamic religious places. Other exotic items like embroidered caps for Muslim men,
+        local cosmetics, pictures and posters of sacred places are available at the Meena Bazaar.
+        You can satiate your appetite with toothsome Indian non-vegetarians cuisines at the small
+        food stalls and dotting the area. </string>
+    <string name="meena_number">011 2336 5358</string>
+    <string name="meena_timing">Timings:\nMonday\nClosed\nTuesday - Saturday\n10:30am - 8:30pm\nSunday\nClosed</string>
+
+
+    <string name="kitty_name">Kitty Su</string>
+    <string name="kitty_place"> Lobby Level The Lalit Hotel, Barakhamba Rd, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="kitty_basic">Only when you step inside, will you understand the fusion brought alive
+        in its décor - an artistic exploration of past and present that has been beautifully translated
+        into making it an urban music shrine for the ones who appreciate music ranging from Electro
+        to Pop, from House to Disco. Special attention to quality and perfection is evident from the
+        collaboration Kitty Su has with eminent music biggies like MOS and VOID. The sound and lighting
+        innovation is in sync with The Lalit Suri Hospitality Group\'s reputation of style and urbanity.</string>
+    <string name="kitty_number">1800 11 6777</string>
+    <string name="kitty_timing">Timings:\nMonday\nClosed\nTuesday - Sunday\n10:00pm - 1:00am</string>
+
+
+    <string name="shiro_name">Shiro</string>
+    <string name="shiro_place">Plot No. 50B, Kautilya Marg, Chanakyapuri, New Delhi, Delhi 110021</string>
+    <string name="shiro_basic">A vast, night-time space clearly inspired by such restaurants as
+        Paris\'s Buddha Bar and New York\'s Buddakan, Shiro looks a little empty during the day.
+        But at night, when the music comes on and the lights go down, this FarEastern restaurant
+        begins to rock- especially on weekends</string>
+    <string name="shiro_number">011 2687 6310</string>
+    <string name="shiro_timing">Timings:\nMonday - Sunday\n6:00pm - 1:00am</string>
+
+
+    <string name="blueBar_name">The Blue Bar</string>
+    <string name="blueBar_place">Taj Palace, New Delhi, Lobby Level 2, Sardar Patel Marg, Diplomatic Enclave, New Delhi, Delhi 110021</string>
+    <string name="blueBar_basic">This luxurious lounge and bar has a very edgy feel, owing to its
+        dramatic red-on-black colour scheme and ambient lighting. Set along the perimeter of the hotel,
+        it offers you the option of facing either the lush green central garden or the sparkling pool.
+        Enjoy some of the city’s most interesting cocktails and quick bites, al fresco when the weather
+        is good.</string>
+    <string name="blueBar_number">011 6650 3699</string>
+    <string name="blueBar_timing">Timings:\nMonday - Sunday\n5:00pm - 12:45am</string>
+
+
+    <string name="keya_name">Keya</string>
+    <string name="keya_place">DLF Promenade Mall, Vasant Kunj, Delhi - 110070</string>
+    <string name="keya_basic">Keya is an up to scratch decently prized Restro-bar in Vasant Kunj. It
+        is the ideal spot for unwinding over some drinks and authentic Italian cuisines. In DLF
+        Promenade which is the foremost busy bustling mall in Delhi, the exquisite ambience and the
+        lip-smacking Sushi by Keya would surely make you show up to the same place again. Keya is a
+        differently able friendly restaurant that offers a well set bar and a lit outdoor seating
+        which will make you put your right foot at its door again. It is located near Pandit Deendayal
+        Upadhyaya Urja Bhawan</string>
+    <string name="keya_number">9560715533</string>
+    <string name="keya_timing">Timings:\nMonday - Sunday\n12:30pm - 1:00am</string>
+
+
+    <string name="hardRock_name">Hard Rock Cafe</string>
+    <string name="hardRock_place">M 110, Multiplex Building 1st Floor, Dlf Place, Saket District Centre, New Delhi, Delhi 110060</string>
+    <string name="hardRock_basic">"Hard Rock Cafe is a global phenomenon with 185 cafes that are
+        visited by nearly 80 million guests each year. The first Hard Rock Cafe opened on June 14,1971,
+        in London, England, and from there the brand has expanded to major cities and exotic locations
+        around the world."</string>
+    <string name="hardRock_number">8130155885</string>
+    <string name="hardRock_timing">Timings:\nMonday - Sunday\n12:00pm - 9:00pm</string>
+
+
+    <string name="hybrid_name">Hybrid</string>
+    <string name="hybrid_place"> 54, Tolstoy Rd, Atul Grove Road, Janpath, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="hybrid_basic">The hybrid café – like the hybrid car – operates on two levels to seamlessly achieve one objective.
+        The hybrid car uses both internal power combustion and electric to get from A to B. One source
+        of power takes over when the other is lacking, but importantly, they back each other up. Instead
+        of power, the hybrid café has dual income streams which create a different form of momentum,
+        in the form of cash flow and a tangible point of difference to draw in customers. You have the
+        main source of income from the café business and a secondary income from the other business.
+        The nature of the two businesses can be vastly different, but as with the hybrid car, they
+        must support each other.</string>
+    <string name="hybrid_number">9999488223</string>
+    <string name="hybrid_timing">Timings:\nMonday - Sunday\n10:00am - 10:00pm</string>
+
+
+    <string name="tcBar_name">TC Bar and Restaurant</string>
+    <string name="tcBar_place">81, Sri Aurobindo Marg, Adhchini Village, New Delhi, Delhi 110017</string>
+    <string name="tcBar_basic">TC Bar and Restaurant is a one-stop destination for people who are in
+        love with North Indian, Continental and Asian cuisines and savor every bit of it. The peaceful
+        and aesthetic ambiance is paired up with a well-stocked bar takes you to a different world
+        of joyfulness. At TC Bar and Restaurant, they celebrate the real flavors of the specialty cuisine
+        that has become fashionable and popular all around the world. The cost-effective menu has a
+        healthier balance of delicious as well as filling food and spoils you for choice. The
+        compassionate team of TC Bar and Restaurant adds on to the overall dining experience. The restaurant
+        is located in Adchini and the nearest landmark is Uday Honda Showroom.</string>
+    <string name="tcBar_number">098107 08296</string>
+    <string name="tcBar_timing">Timings:\nMonday - Sunday\n7:00pm - 12:00am</string>
+
+
+    <string name="mocha_name">Mocha Art Place</string>
+    <string name="mocha_place">167, DLF Promenade, Nelson Mandela Marg, Vasant Kunj II, New Delhi, Delhi 110070</string>
+    <string name="mocha_basic">Mocha is the country\'s first completely indigenous and eclectic café
+        chain, known not just for its menu, but the varied experiences it brought to 14 outlets in 12
+        cities to expand the café culture. Born in 2001 in the bylanes of Churchgate, Mumbai and
+        celebrating 15 years of operations, Mocha has influenced the world-view of an entire generation,
+        to stir a social revolution.</string>
+    <string name="mocha_number">080999 37140</string>
+    <string name="mocha_timing">Timings:\nMonday - Sunday\n9:00pm - 4:00am</string>
+
+
+    <string name="littleOwl_name">Little Owl Cafe</string>
+    <string name="littleOwl_place">I-9, Plot no, 23, Pocket A8, Pocket 9, Sector -16, Rohini, New Delhi, Delhi 110085</string>
+    <string name="littleOwl_basic">Nestled and hidden from the crowds but at a prime spot near Sector
+        18 metro station in Noida, the Little Owl Cafe beckons the baby owls from across the city and
+        its suburbs. Closed from 5am to 8am everyday and working through the other timings, they dish
+        out a plethora of options for you to enjoy. Must try items are the range of veg and non-veg
+        sandwiches and burgers, hot and piping Maggi and macaroni, patties and crispy garlic bread,
+        yes the pastas too. Hookahs are a bonus to have, and you can opt from a wide range as well.</string>
+    <string name="littleOwl_number">0120 410 8864</string>
+    <string name="littleOwl_timing">Timings:\nMonday - Sunday\n11:00am - 4:00am</string>
+
+
+    <string name="comesum_name">Comesum</string>
+    <string name="comesum_place"> No.14, Mathura Road, HPL Staff Colony, Jangpura A, New Delhi, Delhi 110014</string>
+    <string name="comesum_basic">Simple counter serve chain restaurant serving Mughlai, tandoori and Chinese cuisine.</string>
+    <string name="comesum_number">011 4110 0100</string>
+    <string name="comesum_timing">Timings:\nMonday - Sunday\n11:00am - 11:00pm</string>
+
+
+    <string name="monkey_name">Monkey Bar</string>
+    <string name="monkey_place">Local Shopping Complex 11 Next to Mini Cooper Showroom, Vasant Kunj
+        Marg, Pocket B-C, Sector C, Vasant Kunj, New Delhi, Delhi 110070</string>
+    <string name="monkey_basic">It’s fun, it’s quirky, it’s inspired by pubs the world over! Monkey
+        Bar ( part of the Olive group of restaurants), India’s first and favourite gastro-pub brings
+        you more of everything you love. The menu is non-conformist and quirky, bringing together all
+        the signature dishes that have made it a delight for food lovers; as well as lots more small
+        and large plates. Expect to find regional Indian, homely and familiar flavours, given an
+        unconventional and playful twist, comforting pub grub inspired from different cuisines, thin
+        crust pizzas, burgers and a bunch of refreshing cocktails with a fun twist. The emphasis, as
+        always is on the fresh, innovative and affordable-in a cool, yet, laid back atmosphere. </string>
+    <string name="monkey_number">011 4109 5155</string>
+    <string name="monkey_timing">Timings:\nMonday - Sunday\n12:00pm - 12:30am</string>
+
+
+    <string name="light_name">Light, Camera and Action</string>
+    <string name="light_place">B-5/3 Rajouri Garden, 6, Rajouri Garden, New Delhi, Delhi 110027</string>
+    <string name="light_basic">If you are in mood for an entertaining evening with friends amidst
+        captivating ambience in Delhi then Lights camera Action will never leave you disappointed.
+        The filmy yet charming elegance of this restaurant is simply alluring. Nestled on the third
+        floor in J-2/6 B, , BK Dutt Market, Rajouri Garden, New Delhi the place has a pleasing
+        Bollywood aura with really attractive interiors and a fantastic ambience. It has two floors
+        of seating both indoor and a terrace. There are exciting Bollywood posters as well as famous
+        dialogues of Bollywood actors pasted on the walls. Selfies of bollywood celebrities highlight
+        the filmy ambiance of this thematic restaurant. You can chill in typical filmy style of this
+        air-conditioned restaurant in the artistically pronounced Hauz Khas village in Delhi. A meal
+        for two costs nearly INR1300</string>
+    <string name="light_number">8800002598</string>
+    <string name="light_timing">Timings:\nMonday - Sunday\n10:30am - 12:00am</string>
+
+
+    <string name="myBar_name">My Bar HQ</string>
+    <string name="myBar_place">N 49, 2nd Floor, Radial Road Number 1, near Dominos, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="myBar_basic">My Bar Headquarters is one of the cheapest bars in the city without
+        being seedy or placed in a shady locality. Interiors, location, ambience, all is top-notch.
+        Even if budget-friendly, the bar keeps an impressive bar menu filled with a good range of wines,
+        beers, cognac, tequila, brandy, vodka, rum, gin, whisky, scotch and cocktails. They have good
+        deals frequently, keep an eye open for that. Drivers can quench their thirst with some delicious
+        mocktails and smoothies on offer. Grub menu is a mix of North Indian and Chinese, two of our
+        favourite cuisines. Nibble on a series of appetizers before tackling the mains course. How about,
+        paneer kathi roll, spicy BBQ chicken pizza, grilled fish in lemon butter sauce, spaghetti aglio
+        olio, mix vegetable with hot garlic sauce, mutton rogan josh and chicken biryani.</string>
+    <string name="myBar_number">099999 38571</string>
+    <string name="myBar_timing">Timings:\nMonday - Sunday\n12:00pm - 12:30am</string>
+
+
+    <string name="clubLondon_name">Club London</string>
+    <string name="clubLondon_place">Ground Southern Park Mall Shop No.3 and 4, New Delhi, Delhi 110017</string>
+    <string name="clubLondon_basic">Club London, located in Saket is a one stop destination for all
+        the party animals and want to experience the nightlife of the city. The resto bar has gained
+        popularity for the quality of its services in no time. The dimly-lit and smoky ambiance fuels
+        up the excitement and takes you to a different world of joy. The economical menu hosts North
+        Indian and Italian cuisine, inspired by the provinces across the world. The variety of
+        signature drinks spoils you for choice. Club London is a perfect place to chill with your best
+        buddies and indulge in good food and drinks. The nearest landmark is Southern Park Mall.</string>
+    <string name="clubLondon_number">095609 15848</string>
+    <string name="clubLondon_timing">Timings:\nMonday - Sunday\n11:00am - 1:00am</string>
+
+
+    <string name="lithiyum_name">Lithiyum</string>
+    <string name="lithiyum_place">The Ashok B-50, Diplomatic Enclave, Chanakyapuri, New Delhi, Delhi 110021</string>
+    <string name="lithiyum_basic">Lithiyum is an exquisite lounge serving a lavish and sumptuous range
+        from the Continental cuisine. The lounge has a well-stocked bar serving intoxicating and finely
+        crafted cocktails and drinks. The ambience is modern and chic and is well lit, creating the
+        perfect atmosphere for those who love to party. Lithiyum hosts karaoke, live performances and
+        screenings adding to the several other facilities the lounge offers. It is located in The
+        Ashok, Chanakyapuri, South Delhi. </string>
+    <string name="lithiyum_number">093102 72000</string>
+    <string name="lithiyum_timing">Timings:\nMonday - Sunday\nOpen 24 hours</string>
+
+
+    <string name="clubBW_name">Club BW</string>
+    <string name="clubBW_place">Ground Floor, Suryaa Hotel, Maulana Mohammad Ali Jauhar Marg, New Delhi, Delhi 110065</string>
+    <string name="clubBW_basic">This plush club in hotel Suryaa is a top pick of party goers in the city.
+        The place is buzzing with high energy till 3:00 AM. The music will have you bring out your
+        best moves on the dance floor. They take utmost care of the crowd and you can be assured of
+        that to say the least. They have a great bunch of DJ\'s and special nights during the week.
+        It is a perfect place for a night out with your gang.</string>
+    <string name="clubBW_number">088266 98560</string>
+    <string name="clubBW_timing">Timings:\nMonday\nClosed\nTuesday - Sunday\n9:00pm - 4:00am</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="google_lens">Google Lens</string>
+
+</resources>
